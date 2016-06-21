@@ -276,7 +276,7 @@ tbody tr:nth-child(odd) th {
   /* Prevent side-scrolling on mobile */
   overflow-x: hidden;
   position: relative;
-  overflow: scroll;
+  overflow: auto;
 }
 
 /*
