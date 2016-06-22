@@ -345,11 +345,14 @@ a:focus::before {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-icon-github:before {
-  content: "\e900";
+.icon-github:before {
+    content: "\eab0";
 }
-.icon-icon-twitter:before {
-  content: "\e901";
+.icon-twitter:before {
+    content: "\ea96";
+}
+.icon-facebook2:before {
+    content: "\ea91";
 }
 
 .me {
