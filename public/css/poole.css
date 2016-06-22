@@ -274,9 +274,8 @@ tbody tr:nth-child(odd) th {
   margin-right: auto;
   max-height: 60%;
   /* Prevent side-scrolling on mobile */
-  overflow-x: hidden;
   position: relative;
-  overflow: auto;
+  overflow: hidden;
 }
 
 /*
@@ -316,6 +315,7 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
+  overflow-x: hidden;
 }
 
 /* Blog post or page title */
