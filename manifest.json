@@ -1,0 +1,13 @@
+{
+  "name": "Random Commit",
+  "short_name": "RC",
+  "icons": [{
+        "src": "public/img/rc.jpg",
+        "sizes": "128x128",
+        "type": "image/png"
+  }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#009D81",
+  "theme_color": "#ffffff"
+}
