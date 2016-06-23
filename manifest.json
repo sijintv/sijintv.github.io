@@ -1,5 +1,5 @@
 {
-  "name": "Random Commit",
+  "name": "Random Commits",
   "short_name": "RC",
   "icons": [{
         "src": "public/img/rc.jpg",
@@ -9,5 +9,5 @@
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#009D81",
-  "theme_color": "#ffffff"
+  "theme_color": "#FF8400"
 }
