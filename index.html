@@ -13,7 +13,7 @@ layout: default
   {% endif %}
   <li>
     <h4 class="sub-box"> Posted on
-        {{ post.date | date: "%D" }}
+        {{ post.date | date: "%d/%m/%y" }}
     </h4>
     <div class ="desc-post">{{ post.content | strip_html | truncatewords:45}}</div>
   </li>
