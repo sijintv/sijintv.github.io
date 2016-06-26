@@ -1,4 +1,11 @@
-#The MIT License (MIT)
+#License
+___
+The following directory and their contents are Copyright Sijin Krishnan. You may not reuse anything therein without my permission:
+  * _posts
+
+All other directories and files are **MIT Licensed.**
+
+##The MIT License (MIT)
 
 Copyright (c) 2016 Sijin Krishnan
 
